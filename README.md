@@ -1,26 +1,8 @@
 # Hi, I'm Bettina Woste 👋
-  
-Software developer with 11 years of experience in enterprise software development, backend systems and development process automation.
 
-My professional background includes C++, SQL, JavaScript/Node.js, Linux and Windows build and deployment automation. Currently expanding my skills in Python, Data Science and AI-assisted software development.
+Software developer with 11 years of experience in enterprise software development, backend systems and process automation.
 
-## Featured Projects
-
-**[Job Agent](https://github.com/bettinawoste-wq/jobagent) Python · LLM Integration · SQLite · Automation**
-
-A personal job search agent that automatically collects job postings and evaluates them against a defined search profile using AI.
-
-**[Workout](https://github.com/bettinawoste-wq/Workout) Java · Android · Room · Media Playback**
-
-A personal Android application for creating and managing custom workouts, exercises and workout sessions.
-
-## Background
-
-- 11 years of professional software development at Fujitsu
-- Enterprise backend development and database integration
-- Build and deployment process automation
-- Experience with Linux and Windows development environments
-- Currently focusing on Python, Data Science and AI-related technologies
+Currently expanding my skills in Python, Data Science and AI-assisted software development.
 
 | Category | Technical Skills |
 |---|---|
@@ -28,6 +10,16 @@ A personal Android application for creating and managing custom workouts, exerci
 | Tools | Node.js, API Integration,Git, GitLab, Unit Testing |
 | Automation & CI/CD | Linux, Windows, Bash, YAML |
 | Methods | Agile / Scrum, Software Design |
+
+## Featured Projects
+
+**[Job Agent](https://github.com/bettinawoste-wq/jobagent)** · Python · LLM · SQLite
+
+AI-powered job search and evaluation tool.
+
+**[Workout](https://github.com/bettinawoste-wq/Workout)** · Java · Android · Room
+
+Android app for creating and managing custom workouts.
 
 ## Beyond Coding 🎨
 
