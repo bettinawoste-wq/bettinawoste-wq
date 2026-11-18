@@ -1,13 +1,13 @@
-# Hi, I'm Bettina Woste 👋
+# Hi, I'm Bettina 👋
 
-Software developer with 11 years of experience in enterprise software development, backend systems and process automation.
+Software developer with 11 years of experience in enterprise software development at Fujitsu, backend systems and process automation.
 
 Currently expanding my skills in Python, Data Science and AI-assisted software development.
 
 | Category | Technical Skills |
 |---|---|
 | Programming | C++, Python, JavaScript, SQL, VBA |
-| Tools | Node.js, API Integration,Git, GitLab, Unit Testing |
+| Tools | Node.js, API Integration, Git, GitLab, Unit Testing |
 | Automation & CI/CD | Linux, Windows, Bash, YAML |
 | Methods | Agile / Scrum, Software Design |
 
